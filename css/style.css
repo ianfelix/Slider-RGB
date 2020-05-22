@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+.control input {
+  text-align: center;
+}
+
+.labelcenter {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#cubo {
+  width: 150px;
+  height: 150px;
+  background-color: black;
+  margin: 0px auto;
+  border: 1px solid black;
+}
