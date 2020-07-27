@@ -8,7 +8,7 @@
 <a href="https://slider-rgb.vercel.app/">
 Clique aqui para acessar o link da aplicação
 </a>
-
+<br />
 <p align="center">
  <img src="https://i.imgur.com/VI6f9Og.png" width="500px"/>
 </p>
